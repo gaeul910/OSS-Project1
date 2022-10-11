@@ -2,7 +2,8 @@
 
 int main()
 {
-  printf("OSS Project");
+  printf("OSS Project\n");
+  printf("Github Practice!\n");
   
   return 0;
 }
